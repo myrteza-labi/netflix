@@ -1,0 +1,53 @@
+.main-container-header-wrapped {
+    background-color: transparent;
+    position: relative;
+    max-width: 1920px;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 5rem;
+    z-index: 10;
+
+}
+
+.main-container-header {
+    position: relative;
+    margin: 0 3.5rem;
+    height: 100%;
+}
+
+.netflix-logo {
+    fill: #e50914;
+    line-height: normal;
+}
+
+.svg-icon {
+    padding-top: .5rem;
+    height: 45px;
+    width: 167px;
+}
+
+.authLinks.redButton {
+    background-color: #e50914;
+    line-height: normal;
+    padding: 7px 17px;
+    font-weight: 400;
+    font-size: 1rem;
+    float: right;
+}
+
+
+.authLinks {
+    color: #fff;
+    border-radius: 3px;
+    margin-top: .5rem;
+}
+
+.authLinks:hover{
+    color: white;
+    text-decoration: none; 
+}
